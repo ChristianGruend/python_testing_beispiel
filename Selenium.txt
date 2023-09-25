@@ -19,6 +19,8 @@ Es besteht aus mehreren Teilen:
 Also im Grunde genommen ist Selenium wie ein Roboter, der all die langweiligen Teile deiner Arbeit übernimmt und sicherstellt, 
 dass deine Webanwendung immer so funktioniert, wie sie soll.
 
+
+
 Jenkins + Selenium
 
 Die Integration von Selenium in eine Jenkins-Pipeline kann sehr nützlich sein. 
