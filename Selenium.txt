@@ -1,3 +1,5 @@
+Selenium
+
 Stell dir vor, du hast eine Webanwendung und du möchtest sicherstellen, dass sie so funktioniert, wie sie soll. 
 Du könntest jeden Tag stundenlang auf verschiedene Schaltflächen klicken und Formulare ausfüllen, aber das wäre ziemlich langweilig und zeitaufwendig, oder? 
 Hier kommt Selenium ins Spiel.
@@ -17,6 +19,14 @@ Es besteht aus mehreren Teilen:
 Also im Grunde genommen ist Selenium wie ein Roboter, der all die langweiligen Teile deiner Arbeit übernimmt und sicherstellt, 
 dass deine Webanwendung immer so funktioniert, wie sie soll.
 
+Jenkins + Selenium
+
+Die Integration von Selenium in eine Jenkins-Pipeline kann sehr nützlich sein. 
+Jenkins kann so konfiguriert werden, dass es automatisch einen Selenium-Test ausführt, sobald eine Änderung am Code vorgenommen wird. 
+Dies ermöglicht es den Entwicklern, Probleme frühzeitig zu erkennen und zu beheben. 
+Darüber hinaus kann Jenkins so konfiguriert werden, dass es Berichte über die Testergebnisse erstellt und diese an das Team sendet. 
+Auf diese Weise können alle Beteiligten den Fortschritt des Projekts und den Status der Anwendung leicht verfolgen.
+
 © by GPT. 
 
-Ich hab n bisl rumprobiert und GPT die Antwort verfassen lassen. 
+Ich hab n bisl rumprobiert und GPT die Antworten verfassen lassen. 
