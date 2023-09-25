@@ -9,3 +9,6 @@ def multiply(x,y):
 
 def divide(x,y):
     return x/y
+
+addieren = add(5,3)
+print(addieren)
