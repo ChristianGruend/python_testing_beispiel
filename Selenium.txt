@@ -1,0 +1,22 @@
+Stell dir vor, du hast eine Webanwendung und du möchtest sicherstellen, dass sie so funktioniert, wie sie soll. 
+Du könntest jeden Tag stundenlang auf verschiedene Schaltflächen klicken und Formulare ausfüllen, aber das wäre ziemlich langweilig und zeitaufwendig, oder? 
+Hier kommt Selenium ins Spiel.
+
+Selenium ist wie ein virtueller Benutzer, der all diese Aufgaben für dich erledigt. 
+Es ist ein Framework, das dir hilft, automatisierte Tests für Webanwendungen zu schreiben. 
+Mit anderen Worten, du kannst ein Skript schreiben, das sagt: 
+"Öffne diesen Browser, gehe zu dieser URL, klicke auf diese Schaltfläche, fülle dieses Formular aus", und Selenium wird genau das tun. 
+Und das Beste daran ist, dass es das immer wieder tun kann, so oft du willst!
+
+Es besteht aus mehreren Teilen:
+1. **Selenium WebDriver**: Das ist der Teil, der tatsächlich den Browser steuert. Du kannst ihm sagen, was er tun soll, und er wird es tun.
+2. **Selenium IDE**: Das ist ein Tool, das dir hilft, diese Skripte zu schreiben. 
+    Es hat eine schöne Benutzeroberfläche und du kannst sogar Aktionen aufzeichnen, die du in deinem Browser machst, und sie dann in ein Skript umwandeln.
+3. **Selenium Grid**: Das ist für den Fall, dass du viele Tests hast und sie alle gleichzeitig auf verschiedenen Maschinen oder in verschiedenen Browsern laufen lassen möchtest.
+
+Also im Grunde genommen ist Selenium wie ein Roboter, der all die langweiligen Teile deiner Arbeit übernimmt und sicherstellt, 
+dass deine Webanwendung immer so funktioniert, wie sie soll.
+
+© by GPT. 
+
+Ich hab n bisl rumprobiert und GPT die Antwort verfassen lassen. 
